@@ -8,3 +8,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - The project is referred to on the [project_3D_developer_portfolio](https://github.com/adrianhajdin/project_3D_developer_portfolio)
+# ⚙️ Tech Stack  
+React.js
+Three.js
+React Three Fiber
+React Three Drei
+Email JS
+Vite
+Tailwind CSS
+  
