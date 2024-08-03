@@ -52,3 +52,5 @@
 
 通过这个项目，我不仅践行了所学的前沿Web开发技术，更重要的是将这些技术融会贯通，创造出了一个独特、互动且视觉上引人入胜的开发者作品集。它不仅是我技能的展示窗口，也是我对Web开发无限可能性的探索。
 
+[gitbook: 项目备忘录](https://project-based-learning.gitbook.io/personal-portfolio/)
+
