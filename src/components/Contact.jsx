@@ -34,8 +34,6 @@ const Contact = () => {
     const templateId = import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID;
     const publicKey = import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY;
 
-
-
     emailjs
       .send(
         serviceId,
